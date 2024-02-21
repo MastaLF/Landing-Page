@@ -1,6 +1,24 @@
+body {
+    margin: 0;
+}
+
+
+.section-1 {
+    background-color: #1f2937;
+}
+
+.header {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.subtext .item-1 .item-2 .item-3 {
+    font-size: 18px;
+    color: #e5e7eb;
+}
 
 .links {
     display: flex;
-    justify-content: flex-end;
-    align-items:center;
+    
 }
